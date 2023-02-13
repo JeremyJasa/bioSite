@@ -1,8 +1,5 @@
-html{
-    font-size: 16px;
-}
 body{
-    font-size: 16px;
+
     background-color: rgb(31, 76, 224);
 }
 h1 {
@@ -18,20 +15,28 @@ h3 {
     font-weight: 700;
     font-size: 2.441em;
     margin: 0;
-    text-align: right;
+
 }
 
 .intro p {
   font-family: 'Roboto Serif', serif;
-  font-weight: 400;
-  line-height: 1.5em;
+  font-weight: 600;
+  line-height: 2.5em;
   }
 
 .photo p {
  background-color: white;
+ 
 }
 
+.photo {
+
+    display: block;
+margin-left: auto;
+   }
 #studio {
-align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
